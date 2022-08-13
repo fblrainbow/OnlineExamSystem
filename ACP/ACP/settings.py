@@ -76,10 +76,10 @@ WSGI_APPLICATION = 'ACP.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'acp_cc',  # 使用数据库的名称
+        'NAME': 'ACP',  # 使用数据库的名称
         'USER': 'root',  # 用户名
         # 'PASSWORD': 'FBLATPX520@',  # 密码
-        'PASSWORD': 'FBLATPX4869@',  # 密码
+        'PASSWORD': 'FBLatpx4869@',  # 密码
         'HOST': '127.0.0.1',  # 地址
         'PORT': '3306'  # 端口号
     }
