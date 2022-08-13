@@ -19,5 +19,5 @@ services:
       - "3306:3306"
     restart: always
     environment:
-      - MYSQL_ROOT_PASSWORD=FBLATPX521@
+      - MYSQL_ROOT_PASSWORD=FBL4869@
       - MYSQL_DATABASE=Rambo
